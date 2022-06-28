@@ -7,8 +7,9 @@
 html and css
 
 ## Getting Started
-
-This is an hello microverse setup project 
+ how to clone the repo and who to see on the browser
+ 
+Prereauisises : VSCode, Chrome, etc...
 
 
 👤 **Author1**
